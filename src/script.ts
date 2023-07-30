@@ -63,3 +63,22 @@ a.push('40');
 
 let p: (string | number)[] = [];
 
+// object
+
+let c: {
+    name: string,
+    age: number,
+    adult: boolean
+}
+
+
+c = {
+    name: 'shamil',
+    age: 24,
+    adult: true
+}
+
+
+let d: object;
+
+d = [1, 1, 887, 566];
